@@ -16,7 +16,8 @@
 
 /* 사이드바 배경: 밝은 톤 바차트 사진 (금융/경제 컨셉) */
 #sidebar {
-  position: relative;
+  /* 원래 테마의 position:fixed 레이아웃은 그대로 두고(안 그러면 본문이 밀려 내려감),
+     absolute 자식(::before)의 기준점 역할은 fixed도 이미 해주므로 overflow만 추가한다 */
   overflow: hidden;
 }
 
