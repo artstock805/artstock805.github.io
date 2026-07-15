@@ -1,0 +1,39 @@
+---
+---
+
+@use 'abstracts/variables' with (
+  $theme: '{{ site.theme_mode }}'
+);
+
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+
+/* 사이드바 배경: 은은한 캔들차트 모티프 (금융/경제 컨셉) */
+#sidebar {
+  position: relative;
+  overflow: hidden;
+}
+
+#sidebar::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image: url('/assets/img/sidebar-bg.svg');
+  background-size: cover;
+  background-position: center;
+  opacity: 0.12;
+  z-index: -1;
+  pointer-events: none;
+}
+
+@media (prefers-color-scheme: dark) {
+  #sidebar::before { opacity: 0.2; }
+}
+html[data-theme="dark"] #sidebar::before { opacity: 0.2; }
+html[data-theme="light"] #sidebar::before { opacity: 0.12; }
