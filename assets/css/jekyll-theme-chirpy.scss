@@ -14,7 +14,7 @@
 
 /* append your custom style below */
 
-/* 사이드바 배경: 캔들차트 스크린 사진 (금융/경제 컨셉) */
+/* 사이드바 배경: 밝은 톤 바차트 사진 (금융/경제 컨셉) */
 #sidebar {
   position: relative;
   overflow: hidden;
@@ -26,14 +26,15 @@
   inset: 0;
   background-image: url('/assets/img/sidebar-bg.jpg');
   background-size: cover;
-  background-position: center;
-  opacity: 0.24;
+  background-position: left center;
+  opacity: 0.5;
   z-index: -1;
   pointer-events: none;
 }
 
+/* 원본이 밝은 파스텔 톤이라 다크모드에서는 은은하게만 비치도록 낮춘다 */
 @media (prefers-color-scheme: dark) {
-  #sidebar::before { opacity: 0.4; }
+  #sidebar::before { opacity: 0.15; }
 }
-html[data-theme="dark"] #sidebar::before { opacity: 0.4; }
-html[data-theme="light"] #sidebar::before { opacity: 0.24; }
+html[data-theme="dark"] #sidebar::before { opacity: 0.15; }
+html[data-theme="light"] #sidebar::before { opacity: 0.5; }
