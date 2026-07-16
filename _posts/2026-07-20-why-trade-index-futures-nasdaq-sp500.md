@@ -3,6 +3,7 @@ title: "나스닥/S&P500 지수선물, 왜 사람들이 거래할까"
 date: 2026-07-20 09:00:00 +0900
 categories: [트레이딩, 기초]
 tags: [지수선물, 초보가이드]
+image: /assets/img/thumbnails/basics.svg
 ---
 
 ## 이 글에서 다루는 질문

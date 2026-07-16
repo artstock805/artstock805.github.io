@@ -1,0 +1,10 @@
+<svg width="800" height="450" viewBox="0 0 800 450" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>기초 카테고리 썸네일</title>
+<rect width="800" height="450" fill="#22405A"/>
+<circle cx="620" cy="150" r="130" fill="#2C5578"/>
+<circle cx="620" cy="150" r="92" fill="#345E85"/>
+<circle cx="620" cy="150" r="54" fill="#3D6A93"/>
+<circle cx="620" cy="150" r="18" fill="#F2C765"/>
+<text x="60" y="330" font-family="Georgia, 'Noto Serif KR', serif" font-size="72" font-weight="700" fill="#F4F1E8">기초</text>
+<text x="62" y="368" font-family="Arial, sans-serif" font-size="22" letter-spacing="2" fill="#9FB3C4">TRADING BASICS</text>
+</svg>

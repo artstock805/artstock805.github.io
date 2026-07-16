@@ -3,6 +3,7 @@ title: "변동성 국면별 대응 전략: ATR 기반 손절폭 설정"
 date: 2026-08-10 09:00:00 +0900
 categories: [트레이딩, 전략분석]
 tags: [리스크관리]
+image: /assets/img/thumbnails/strategy.svg
 ---
 
 > ⚠️ **이 글의 ATR 예시 수치는 개념 설명을 위한 가상의 값입니다.** 실제 발행 전 실제 차트의 ATR 값으로 교체해야 합니다.

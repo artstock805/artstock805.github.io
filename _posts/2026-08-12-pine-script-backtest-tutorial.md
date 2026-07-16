@@ -3,6 +3,7 @@ title: "TradingView Pine Script로 나만의 전략 백테스트 해보기"
 date: 2026-08-12 09:00:00 +0900
 categories: [트레이딩, 후기]
 tags: [백테스트]
+image: /assets/img/thumbnails/review.svg
 ---
 
 ## 이 글에서 다루는 질문

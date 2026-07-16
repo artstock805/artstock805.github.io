@@ -3,6 +3,7 @@ title: "레버리지와 증거금, 해외선물에서 특히 조심해야 하는
 date: 2026-07-24 09:00:00 +0900
 categories: [트레이딩, 기초]
 tags: [리스크관리, 초보가이드]
+image: /assets/img/thumbnails/basics.svg
 ---
 
 ## 이 글에서 다루는 질문

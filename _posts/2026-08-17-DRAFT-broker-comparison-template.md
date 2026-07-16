@@ -3,6 +3,7 @@ title: "국내 해외선물 거래 증권사 비교 (수수료·플랫폼·고�
 date: 2026-08-17 09:00:00 +0900
 categories: [트레이딩, 후기]
 tags: [플랫폼리뷰]
+image: /assets/img/thumbnails/review.svg
 published: false
 ---
 

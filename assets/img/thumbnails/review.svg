@@ -1,0 +1,8 @@
+<svg width="800" height="450" viewBox="0 0 800 450" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>후기 카테고리 썸네일</title>
+<rect width="800" height="450" fill="#173622"/>
+<path d="M620 60 L672 82 L672 160 C672 220 640 260 620 275 C600 260 568 220 568 160 L568 82 Z" fill="#2F6B49"/>
+<path d="M594 168 L614 190 L652 138" fill="none" stroke="#D9EFDF" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="60" y="330" font-family="Georgia, 'Noto Serif KR', serif" font-size="72" font-weight="700" fill="#EDF5EE">후기</text>
+<text x="62" y="368" font-family="Arial, sans-serif" font-size="22" letter-spacing="2" fill="#8FBFA0">REVIEW</text>
+</svg>

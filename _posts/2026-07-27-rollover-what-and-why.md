@@ -3,6 +3,7 @@ title: "롤오버(만기이월)란 무엇이고 왜 중요한가"
 date: 2026-07-27 09:00:00 +0900
 categories: [트레이딩, 기초]
 tags: [초보가이드]
+image: /assets/img/thumbnails/basics.svg
 ---
 
 ## 이 글에서 다루는 질문

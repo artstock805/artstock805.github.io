@@ -3,6 +3,7 @@ title: "주문 유형 총정리: 시장가 · 지정가 · 스탑"
 date: 2026-07-22 09:00:00 +0900
 categories: [트레이딩, 기초]
 tags: [초보가이드]
+image: /assets/img/thumbnails/basics.svg
 ---
 
 ## 이 글에서 다루는 질문

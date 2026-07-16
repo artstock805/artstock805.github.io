@@ -3,6 +3,7 @@ title: "해외선물 모의계좌 vs 실계좌, 3개월 운용 후기"
 date: 2026-08-14 09:00:00 +0900
 categories: [트레이딩, 후기]
 tags: [플랫폼리뷰]
+image: /assets/img/thumbnails/review.svg
 published: false
 ---
 

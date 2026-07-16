@@ -1,0 +1,10 @@
+<svg width="800" height="450" viewBox="0 0 800 450" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>마감시황 카테고리 썸네일</title>
+<rect width="800" height="450" fill="#5A2E14"/>
+<rect x="520" y="260" width="46" height="110" rx="4" fill="#B5541F"/>
+<rect x="586" y="180" width="46" height="190" rx="4" fill="#E08A57"/>
+<rect x="652" y="220" width="46" height="150" rx="4" fill="#B5541F"/>
+<rect x="718" y="140" width="46" height="230" rx="4" fill="#F2A96B"/>
+<text x="60" y="330" font-family="Georgia, 'Noto Serif KR', serif" font-size="72" font-weight="700" fill="#F4EDE4">마감시황</text>
+<text x="62" y="368" font-family="Arial, sans-serif" font-size="22" letter-spacing="2" fill="#D9A578">DAILY RECAP</text>
+</svg>

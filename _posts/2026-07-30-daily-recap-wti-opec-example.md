@@ -3,6 +3,7 @@ title: "(예시) WTI 원유, OPEC+ 감산 발표에 급등 마감"
 date: 2026-07-30 23:30:00 +0900
 categories: [트레이딩, 마감시황]
 tags: [원자재선물, WTI]
+image: /assets/img/thumbnails/daily-recap.svg
 ---
 
 > ⚠️ **이 글은 마감시황 포맷을 보여주기 위한 예시입니다.** 표의 수치는 실제 시황이 아닌 가상의 예시 값이며, 실제 발행 시에는 당일 실시간 데이터로 교체해야 합니다.

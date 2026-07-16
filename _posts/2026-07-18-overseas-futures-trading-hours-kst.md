@@ -3,6 +3,7 @@ title: "해외선물 거래시간표 완전정리 (한국시간 기준)"
 date: 2026-07-18 09:00:00 +0900
 categories: [트레이딩, 기초]
 tags: [초보가이드]
+image: /assets/img/thumbnails/basics.svg
 ---
 
 ## 이 글에서 다루는 질문
