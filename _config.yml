@@ -162,6 +162,10 @@ paginate: 10
 # The base URL of your site
 baseurl: ""
 
+# Publish posts with a future date immediately instead of waiting for that date to pass.
+# Needed because the 트레이딩 content calendar uses forward-dated posts (2026-07-18 ~ 08-17).
+future: true
+
 # ------------ The following options are not recommended to be modified ------------------
 
 kramdown:
