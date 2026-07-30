@@ -1,6 +1,6 @@
 ---
 title: "oh-my! — Oh My Zsh에서 AI 코딩 에이전트까지, oh-my 패밀리 정리"
-date: 2026-07-18 10:00:00 +0900
+date: 2026-07-10 10:00:00 +0900
 categories: [교육, 아이펠]
 tags: [OhMyZsh, oh-my-openagent, oh-my-claudecode, 개발도구, 학습기록]
 ---
